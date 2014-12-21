@@ -1,2 +1,3 @@
-blog
+Blog
 ====
+[Home](http://egemen.me)
