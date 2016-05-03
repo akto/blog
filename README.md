@@ -1,5 +1,5 @@
 #Blog
----
+
 * [Home](http://egemen.me) 
 * [Homepage on ITU](http://web.itu.edu.tr/akto)
 
